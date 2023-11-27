@@ -1,0 +1,103 @@
+completed work.....
+
+day 01////////
+
+ADMIN  PAGE         -login/logout(static)
+categories master   - crud,deact/activate,same name error
+product master      - crud,image violation error,deact/activate
+user read           - show and delete
+contact us          - show and delete
+
+
+
+day 02/////
+
+
+customer page:(front end theme manupulate) 
+
+
+login/registration page create on front end
+add to cart button for produtct(only front end)
+fully functional contact us page
+fetching category at the top from database 
+fetching product details with clicking protduct
+
+
+
+day 03/////
+
+a.login/registration page with correct error mssg and logout
+
+b.ADD to cart functionality -
+          0.product fetch, 
+          1.remove ,
+          2.add,
+          3.sub totatal price,
+          4.quantity update.
+
+
+day 04/////
+
+complete checkout page(cod process)
+1.order and order detail page
+2.order history(My order)
+
+day 05/////
+
+(*fixing some previous bugs>>>
+editing category name on each category/product page, cod payment type status)
+
+1. creating order status table on database 
+2. creating order master page 
+3. and order master detail page ---->Admin order status updating 
+
+day 06/////
+
+1.editing from payU from bikash
+2.editing javascript file :from main js to custom.js
+3.fixing my order page fetching order id in a  decending order
+4.fixing product name link on index and product page
+
+5.making search icon and complete the functionality
+6.product sorting complete functionality
+
+
+day 07/////
+
+fixing top page css
+
+adding wishlist datatable in database 
+wish icon in index,category,search page
+complete wishlist functionality - remove,add,total count,already added 
+restrict Wishlist from anonymous users
+
+
+day 08/////
+
+
+completing best seller in admin and front section
+making title meta description ,keyword dynamic on top[ front page]
+
+
+fixing error on admin pannel
+
+
+
+day 09/////
+
+complete email (gmail smtp) verification OTP
+forgot password 
+profile page -update
+
+
+
+
+
+
+
+
+
+
+
+
+
